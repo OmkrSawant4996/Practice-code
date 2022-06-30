@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Electrycity Bill", "Electrycity Bill\Electrycity Bill.csproj", "{8ED49BA7-BFC1-4AC3-9119-31988BEC348B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ED49BA7-BFC1-4AC3-9119-31988BEC348B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED49BA7-BFC1-4AC3-9119-31988BEC348B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED49BA7-BFC1-4AC3-9119-31988BEC348B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED49BA7-BFC1-4AC3-9119-31988BEC348B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08A47828-403A-4224-B99B-B77FD4A5E08F}
+	EndGlobalSection
+EndGlobal
