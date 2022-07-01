@@ -23,7 +23,7 @@ namespace Fibonacci
                     {
                         int Number = int.Parse(input);
 
-                        while (Number > 0)
+                        while (Number > 0 & Number < 50)
                         {
                             for (int i = 0; i < Number; i++)
                             {

@@ -1,0 +1,8 @@
+D:\C# Training\find maximum number and minimum number\find maximum number and minimum number\bin\Debug\find maximum number and minimum number.exe.config
+D:\C# Training\find maximum number and minimum number\find maximum number and minimum number\bin\Debug\find maximum number and minimum number.exe
+D:\C# Training\find maximum number and minimum number\find maximum number and minimum number\bin\Debug\find maximum number and minimum number.pdb
+D:\C# Training\find maximum number and minimum number\find maximum number and minimum number\obj\Debug\find maximum number and minimum number.csproj.AssemblyReference.cache
+D:\C# Training\find maximum number and minimum number\find maximum number and minimum number\obj\Debug\find maximum number and minimum number.csproj.SuggestedBindingRedirects.cache
+D:\C# Training\find maximum number and minimum number\find maximum number and minimum number\obj\Debug\find maximum number and minimum number.csproj.CoreCompileInputs.cache
+D:\C# Training\find maximum number and minimum number\find maximum number and minimum number\obj\Debug\find maximum number and minimum number.exe
+D:\C# Training\find maximum number and minimum number\find maximum number and minimum number\obj\Debug\find maximum number and minimum number.pdb

@@ -1,0 +1,8 @@
+D:\C# Training\Electrycity Bill\Electrycity Bill\bin\Debug\Electrycity Bill.exe.config
+D:\C# Training\Electrycity Bill\Electrycity Bill\bin\Debug\Electrycity Bill.exe
+D:\C# Training\Electrycity Bill\Electrycity Bill\bin\Debug\Electrycity Bill.pdb
+D:\C# Training\Electrycity Bill\Electrycity Bill\obj\Debug\Electrycity Bill.csproj.AssemblyReference.cache
+D:\C# Training\Electrycity Bill\Electrycity Bill\obj\Debug\Electrycity Bill.csproj.SuggestedBindingRedirects.cache
+D:\C# Training\Electrycity Bill\Electrycity Bill\obj\Debug\Electrycity Bill.csproj.CoreCompileInputs.cache
+D:\C# Training\Electrycity Bill\Electrycity Bill\obj\Debug\Electrycity Bill.exe
+D:\C# Training\Electrycity Bill\Electrycity Bill\obj\Debug\Electrycity Bill.pdb

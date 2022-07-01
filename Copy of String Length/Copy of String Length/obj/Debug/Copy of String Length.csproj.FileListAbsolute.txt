@@ -1,0 +1,8 @@
+D:\C# Training\Copy of String Length\Copy of String Length\bin\Debug\Copy of String Length.exe.config
+D:\C# Training\Copy of String Length\Copy of String Length\bin\Debug\Copy of String Length.exe
+D:\C# Training\Copy of String Length\Copy of String Length\bin\Debug\Copy of String Length.pdb
+D:\C# Training\Copy of String Length\Copy of String Length\obj\Debug\Copy of String Length.csproj.AssemblyReference.cache
+D:\C# Training\Copy of String Length\Copy of String Length\obj\Debug\Copy of String Length.csproj.SuggestedBindingRedirects.cache
+D:\C# Training\Copy of String Length\Copy of String Length\obj\Debug\Copy of String Length.csproj.CoreCompileInputs.cache
+D:\C# Training\Copy of String Length\Copy of String Length\obj\Debug\Copy of String Length.exe
+D:\C# Training\Copy of String Length\Copy of String Length\obj\Debug\Copy of String Length.pdb

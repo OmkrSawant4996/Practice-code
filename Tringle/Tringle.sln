@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tringle", "Tringle\Tringle.csproj", "{7D93D5A0-E13A-4846-8224-31F13640BB20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D93D5A0-E13A-4846-8224-31F13640BB20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D93D5A0-E13A-4846-8224-31F13640BB20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D93D5A0-E13A-4846-8224-31F13640BB20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D93D5A0-E13A-4846-8224-31F13640BB20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41DBBA56-CC4D-46D5-BA46-BA11D652F706}
+	EndGlobalSection
+EndGlobal

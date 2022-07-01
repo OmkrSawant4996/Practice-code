@@ -6,42 +6,52 @@ namespace find_maximum_number_and_minimum_number
     {
         static void Main(string[] args)
         {
-        Start:
             string UserChoice = string.Empty;
 
             do
             {
-                Console.WriteLine("Enter First Number");
-                int number1;
-                if (!int.TryParse(Console.ReadLine(), out number1))
+                bool incorrect = true;
+                while (incorrect)
                 {
-                    Console.WriteLine("Invalid Input...!");
-                    goto Start;
-                }
+                    Console.Write("Enter First Number: ");
+                    string First = Console.ReadLine();
 
-                Console.WriteLine("Enter Second Number");
-                int number2;
-                if (!int.TryParse(Console.ReadLine(), out number2))
-                {
-                    Console.WriteLine("Invalid Input...!");
-                    goto Start;
-                }
+                    Console.Write("Enter Second Number: ");
+                    string Second = Console.ReadLine();
 
-                if (number1 > number2)
-                {
-                    Console.WriteLine("Maximum Number =" + number1);
-                }
-                else
-                {
-                    Console.WriteLine("Minimum Number =" + number1);
-                }
-                if (number2 > number1)
-                {
-                    Console.WriteLine("Maximum Number =" + number2);
-                }
-                else
-                {
-                    Console.WriteLine("Minimum Number =" + number2);
+                    if (int.TryParse(First, out int a) | int.TryParse(Second, out int b))
+                    {
+                        int number1 = int.Parse(First);
+                        int number2 = int.Parse(Second);
+
+                        while (number1 >= 0 | number1 < 0 | number2 >= 0 | number2 < 0)
+                        {
+                            if (number1 > number2)
+                            {
+                                Console.WriteLine("\nMaximum Number =" + number1);
+                            }
+                            else
+                            {
+                                Console.WriteLine("\nMinimum Number =" + number1);
+                            }
+                            if (number2 > number1)
+                            {
+                                Console.WriteLine("\nMaximum Number =" + number2);
+                            }
+                            else
+                            {
+                                Console.WriteLine("\nMinimum Number =" + number2);
+                            }
+                            break;
+                        }
+                        incorrect = false;
+                        Console.ReadLine();
+                    }
+                    else
+                    {
+                        Console.WriteLine("Invalid Option\n");
+                        incorrect = true;
+                    }
                 }
                 do
                 {

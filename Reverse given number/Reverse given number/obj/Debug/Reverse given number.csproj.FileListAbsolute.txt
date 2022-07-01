@@ -1,0 +1,8 @@
+D:\C# Training\Reverse given number\Reverse given number\bin\Debug\Reverse given number.exe.config
+D:\C# Training\Reverse given number\Reverse given number\bin\Debug\Reverse given number.exe
+D:\C# Training\Reverse given number\Reverse given number\bin\Debug\Reverse given number.pdb
+D:\C# Training\Reverse given number\Reverse given number\obj\Debug\Reverse given number.csproj.AssemblyReference.cache
+D:\C# Training\Reverse given number\Reverse given number\obj\Debug\Reverse given number.csproj.SuggestedBindingRedirects.cache
+D:\C# Training\Reverse given number\Reverse given number\obj\Debug\Reverse given number.csproj.CoreCompileInputs.cache
+D:\C# Training\Reverse given number\Reverse given number\obj\Debug\Reverse given number.exe
+D:\C# Training\Reverse given number\Reverse given number\obj\Debug\Reverse given number.pdb

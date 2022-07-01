@@ -1,0 +1,8 @@
+D:\C# Training\Integers have same last digit (True or False)\Integers have same last digit (True or False)\bin\Debug\Integers have same last digit (True or False).exe.config
+D:\C# Training\Integers have same last digit (True or False)\Integers have same last digit (True or False)\bin\Debug\Integers have same last digit (True or False).exe
+D:\C# Training\Integers have same last digit (True or False)\Integers have same last digit (True or False)\bin\Debug\Integers have same last digit (True or False).pdb
+D:\C# Training\Integers have same last digit (True or False)\Integers have same last digit (True or False)\obj\Debug\Integers have same last digit (True or False).csproj.AssemblyReference.cache
+D:\C# Training\Integers have same last digit (True or False)\Integers have same last digit (True or False)\obj\Debug\Integers have same last digit (True or False).csproj.SuggestedBindingRedirects.cache
+D:\C# Training\Integers have same last digit (True or False)\Integers have same last digit (True or False)\obj\Debug\Integers have same last digit (True or False).csproj.CoreCompileInputs.cache
+D:\C# Training\Integers have same last digit (True or False)\Integers have same last digit (True or False)\obj\Debug\Integers have same last digit (True or False).exe
+D:\C# Training\Integers have same last digit (True or False)\Integers have same last digit (True or False)\obj\Debug\Integers have same last digit (True or False).pdb

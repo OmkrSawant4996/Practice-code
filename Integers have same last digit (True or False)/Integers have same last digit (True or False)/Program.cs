@@ -11,29 +11,40 @@ namespace Integers_have_same_last_digit__True_or_False_
 
             do
             {
-                Console.Write("Enter a Number A= ");
-                int NumberA;
-                if (!int.TryParse(Console.ReadLine(), out NumberA))
+                bool incorrect = true;
+                while (incorrect)
                 {
-                    Console.WriteLine("Invalid Input...!");
-                    goto Start;
-                }
+                    Console.Write("Enter number A: ");
+                    string First = Console.ReadLine();
 
-                Console.Write("Enter a Number B= ");
-                int NumberB;
-                if (!int.TryParse(Console.ReadLine(), out NumberB))
-                {
-                    Console.WriteLine("Invalid Input...!");
-                    goto Start;
-                }
+                    Console.Write("Enter number B: ");
+                    string Second = Console.ReadLine();
 
-                if ((NumberA % 10) == (NumberB % 10))
-                {
-                    Console.WriteLine("\nInput value is true");
-                }
-                else
-                {
-                    Console.WriteLine("\nInput value is false");
+                    if (int.TryParse(First, out int a) | int.TryParse(Second, out int b))
+                    {
+                        int NumberA = int.Parse(First);
+                        int NumberB = int.Parse(Second);
+
+                        while (NumberA > 0 | NumberA <= 0 | NumberB > 0 | NumberB <= 0)
+                        {
+                            if ((NumberA % 10) == (NumberB % 10))
+                            {
+                                Console.WriteLine("\nInput value is true");
+                            }
+                            else
+                            {
+                                Console.WriteLine("\nInput value is false");
+                            }
+                            break;
+                        }
+                        incorrect = false;
+                        Console.ReadLine();
+                    }
+                    else
+                    {
+                        Console.WriteLine("Invalid Option\n");
+                        incorrect = true;
+                    }
                 }
 
                 do

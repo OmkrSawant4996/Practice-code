@@ -6,29 +6,42 @@ namespace Prime_Number
     {
         static void Main(string[] args)
         {
-        Start:
             string UserChoice = string.Empty;
 
             do
             {
-                Console.Write("Enter Number = ");
-                int number;
-                if (!int.TryParse(Console.ReadLine(), out number))
+                bool incorrect = true;
+                while (incorrect)
                 {
-                    Console.WriteLine("Invalid Input...!");
-                    goto Start;
-                }
+                    Console.Write("Enter number: ");
+                    string First = Console.ReadLine();
 
-                int i = 2;
-                int a = (int)number;
+                    if (int.TryParse(First, out int a))
+                    {
+                        int number = int.Parse(First);
+                        int i = 2;
+                        int b = (int)number;
 
-                if (number % i == 0)
-                {
-                    Console.WriteLine("Not a Prime Number");
-                }
-                else if (number % a == 0)
-                {
-                    Console.Write("It Is Prime Number");
+                        while (number > 0 | number <= 0)
+                        {
+                            if (number % i == 0)
+                            {
+                                Console.WriteLine("\n" + number + " Not a Prime Number");
+                            }
+                            else if (number % b == 0)
+                            {
+                                Console.Write("\n" + number + " Is a Prime Number");
+                            }
+                            break;
+                        }
+                        incorrect = false;
+                        Console.ReadLine();
+                    }
+                    else
+                    {
+                        Console.WriteLine("Invalid Option\n");
+                        incorrect = true;
+                    }
                 }
 
                 do

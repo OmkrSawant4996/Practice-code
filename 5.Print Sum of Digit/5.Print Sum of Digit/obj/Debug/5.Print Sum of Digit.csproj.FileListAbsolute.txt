@@ -1,0 +1,8 @@
+D:\C# Training\5.Print Sum of Digit\5.Print Sum of Digit\obj\Debug\5.Print Sum of Digit.csproj.AssemblyReference.cache
+D:\C# Training\5.Print Sum of Digit\5.Print Sum of Digit\obj\Debug\5.Print Sum of Digit.csproj.SuggestedBindingRedirects.cache
+D:\C# Training\5.Print Sum of Digit\5.Print Sum of Digit\obj\Debug\5.Print Sum of Digit.csproj.CoreCompileInputs.cache
+D:\C# Training\5.Print Sum of Digit\5.Print Sum of Digit\bin\Debug\5.Print Sum of Digit.exe.config
+D:\C# Training\5.Print Sum of Digit\5.Print Sum of Digit\bin\Debug\5.Print Sum of Digit.exe
+D:\C# Training\5.Print Sum of Digit\5.Print Sum of Digit\bin\Debug\5.Print Sum of Digit.pdb
+D:\C# Training\5.Print Sum of Digit\5.Print Sum of Digit\obj\Debug\5.Print Sum of Digit.exe
+D:\C# Training\5.Print Sum of Digit\5.Print Sum of Digit\obj\Debug\5.Print Sum of Digit.pdb

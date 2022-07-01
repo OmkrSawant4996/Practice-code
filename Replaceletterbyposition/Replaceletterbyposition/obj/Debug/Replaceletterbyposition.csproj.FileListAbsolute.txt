@@ -1,0 +1,8 @@
+D:\C# Training\Replaceletterbyposition\Replaceletterbyposition\bin\Debug\Replaceletterbyposition.exe.config
+D:\C# Training\Replaceletterbyposition\Replaceletterbyposition\bin\Debug\Replaceletterbyposition.exe
+D:\C# Training\Replaceletterbyposition\Replaceletterbyposition\bin\Debug\Replaceletterbyposition.pdb
+D:\C# Training\Replaceletterbyposition\Replaceletterbyposition\obj\Debug\Replaceletterbyposition.csproj.AssemblyReference.cache
+D:\C# Training\Replaceletterbyposition\Replaceletterbyposition\obj\Debug\Replaceletterbyposition.csproj.SuggestedBindingRedirects.cache
+D:\C# Training\Replaceletterbyposition\Replaceletterbyposition\obj\Debug\Replaceletterbyposition.csproj.CoreCompileInputs.cache
+D:\C# Training\Replaceletterbyposition\Replaceletterbyposition\obj\Debug\Replaceletterbyposition.exe
+D:\C# Training\Replaceletterbyposition\Replaceletterbyposition\obj\Debug\Replaceletterbyposition.pdb

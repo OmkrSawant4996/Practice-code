@@ -20,7 +20,7 @@ namespace Temprature_of_Weather
                     {
                         int Temprature = int.Parse(Input);
 
-                        while (Temprature > 0 | Temprature < 0 | Temprature < 200)
+                        while (Temprature > 0 & Temprature < 0 & Temprature < 200)
                         {
                             if (Temprature < 0)
                             {
@@ -53,7 +53,7 @@ namespace Temprature_of_Weather
                     }
                     else
                     {
-                        Console.WriteLine("Invalid Option");
+                        Console.WriteLine("Invalid Option\n");
                         incorrect = true;
                     }
                 }

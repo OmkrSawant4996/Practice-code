@@ -6,9 +6,7 @@ namespace Replaceletterbyposition
     {
         static void Main(string[] args)
         {
-        Start:
             string UserChoice = string.Empty;
-
             do
             {
                 bool incorrect = true;
@@ -20,11 +18,11 @@ namespace Replaceletterbyposition
                     Console.Write("\nEnter the position of the letter you want to remove: ");
                     string input = Console.ReadLine();
 
-                    if (int.TryParse(input, out int a))
+                    if (int.TryParse(input, out int a) | int.TryParse(Word, out int b))
                     {
                         int Number = int.Parse(input);
 
-                        while (Number > 0)
+                        while (Number <= Word.Length)
                         {
                             String Result = "";
 
@@ -41,7 +39,6 @@ namespace Replaceletterbyposition
                         incorrect = true;
                     }
                 }
-
                 do
                 {
                     Console.WriteLine("\nDo you want to continue - YES or NO?");

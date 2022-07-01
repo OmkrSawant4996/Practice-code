@@ -1,0 +1,8 @@
+D:\C# Training\14. Positive Value, Negative Value, Zero\14. Positive Value, Negative Value, Zero\bin\Debug\_14.Positive_Value__Negative_Value__Zero.exe.config
+D:\C# Training\14. Positive Value, Negative Value, Zero\14. Positive Value, Negative Value, Zero\bin\Debug\_14.Positive_Value__Negative_Value__Zero.exe
+D:\C# Training\14. Positive Value, Negative Value, Zero\14. Positive Value, Negative Value, Zero\bin\Debug\_14.Positive_Value__Negative_Value__Zero.pdb
+D:\C# Training\14. Positive Value, Negative Value, Zero\14. Positive Value, Negative Value, Zero\obj\Debug\14. Positive Value, Negative Value, Zero.csproj.AssemblyReference.cache
+D:\C# Training\14. Positive Value, Negative Value, Zero\14. Positive Value, Negative Value, Zero\obj\Debug\14. Positive Value, Negative Value, Zero.csproj.SuggestedBindingRedirects.cache
+D:\C# Training\14. Positive Value, Negative Value, Zero\14. Positive Value, Negative Value, Zero\obj\Debug\14. Positive Value, Negative Value, Zero.csproj.CoreCompileInputs.cache
+D:\C# Training\14. Positive Value, Negative Value, Zero\14. Positive Value, Negative Value, Zero\obj\Debug\_14.Positive_Value__Negative_Value__Zero.exe
+D:\C# Training\14. Positive Value, Negative Value, Zero\14. Positive Value, Negative Value, Zero\obj\Debug\_14.Positive_Value__Negative_Value__Zero.pdb

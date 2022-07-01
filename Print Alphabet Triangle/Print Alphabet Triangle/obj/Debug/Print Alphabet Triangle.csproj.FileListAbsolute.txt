@@ -1,0 +1,8 @@
+D:\C# Training\Print Alphabet Triangle\Print Alphabet Triangle\bin\Debug\Print Alphabet Triangle.exe.config
+D:\C# Training\Print Alphabet Triangle\Print Alphabet Triangle\bin\Debug\Print Alphabet Triangle.exe
+D:\C# Training\Print Alphabet Triangle\Print Alphabet Triangle\bin\Debug\Print Alphabet Triangle.pdb
+D:\C# Training\Print Alphabet Triangle\Print Alphabet Triangle\obj\Debug\Print Alphabet Triangle.csproj.AssemblyReference.cache
+D:\C# Training\Print Alphabet Triangle\Print Alphabet Triangle\obj\Debug\Print Alphabet Triangle.csproj.SuggestedBindingRedirects.cache
+D:\C# Training\Print Alphabet Triangle\Print Alphabet Triangle\obj\Debug\Print Alphabet Triangle.csproj.CoreCompileInputs.cache
+D:\C# Training\Print Alphabet Triangle\Print Alphabet Triangle\obj\Debug\Print Alphabet Triangle.exe
+D:\C# Training\Print Alphabet Triangle\Print Alphabet Triangle\obj\Debug\Print Alphabet Triangle.pdb

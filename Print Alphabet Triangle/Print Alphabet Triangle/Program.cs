@@ -6,7 +6,6 @@ namespace Print_Alphabet_Triangle
     {
         static void Main(string[] args)
         {
-        Start:
             string UserChoice = string.Empty;
             do
             {
@@ -22,7 +21,7 @@ namespace Print_Alphabet_Triangle
                     {
                         int Number = int.Parse(Job);
 
-                        while (Number > 0)
+                        while (Number > 0 & Number <= 26)
                         {
                             for (int i = 0; i < Number; i++)
                             {

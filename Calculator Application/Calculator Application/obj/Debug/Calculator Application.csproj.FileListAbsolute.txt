@@ -1,0 +1,8 @@
+D:\C# Training\Calculator Application\Calculator Application\bin\Debug\Calculator Application.exe.config
+D:\C# Training\Calculator Application\Calculator Application\bin\Debug\Calculator Application.exe
+D:\C# Training\Calculator Application\Calculator Application\bin\Debug\Calculator Application.pdb
+D:\C# Training\Calculator Application\Calculator Application\obj\Debug\Calculator Application.csproj.AssemblyReference.cache
+D:\C# Training\Calculator Application\Calculator Application\obj\Debug\Calculator Application.csproj.SuggestedBindingRedirects.cache
+D:\C# Training\Calculator Application\Calculator Application\obj\Debug\Calculator Application.csproj.CoreCompileInputs.cache
+D:\C# Training\Calculator Application\Calculator Application\obj\Debug\Calculator Application.exe
+D:\C# Training\Calculator Application\Calculator Application\obj\Debug\Calculator Application.pdb

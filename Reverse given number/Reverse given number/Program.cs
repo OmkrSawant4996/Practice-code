@@ -25,14 +25,11 @@ namespace Reverse_given_number
 
                         while (number > 0)
                         {
-                            while (number > 0)
-                            {
-                                reminder = number % 10;
-                                sum = (sum * 10) + reminder;
-                                number = number / 10;
-                            }
-                            Console.WriteLine("Reverse Number: " + sum);
+                            reminder = number % 10;
+                            sum = (sum * 10) + reminder;
+                            number = number / 10;
                         }
+                        Console.WriteLine("\nReverse Number: " + sum);
                         incorrect = false;
                         Console.ReadLine();
                     }

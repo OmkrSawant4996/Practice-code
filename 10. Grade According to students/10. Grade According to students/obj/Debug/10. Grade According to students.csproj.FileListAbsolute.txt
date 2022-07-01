@@ -1,0 +1,8 @@
+D:\C# Training\10. Grade According to students\10. Grade According to students\bin\Debug\_10.Grade_According_to_students.exe.config
+D:\C# Training\10. Grade According to students\10. Grade According to students\bin\Debug\_10.Grade_According_to_students.exe
+D:\C# Training\10. Grade According to students\10. Grade According to students\bin\Debug\_10.Grade_According_to_students.pdb
+D:\C# Training\10. Grade According to students\10. Grade According to students\obj\Debug\10. Grade According to students.csproj.AssemblyReference.cache
+D:\C# Training\10. Grade According to students\10. Grade According to students\obj\Debug\10. Grade According to students.csproj.SuggestedBindingRedirects.cache
+D:\C# Training\10. Grade According to students\10. Grade According to students\obj\Debug\10. Grade According to students.csproj.CoreCompileInputs.cache
+D:\C# Training\10. Grade According to students\10. Grade According to students\obj\Debug\_10.Grade_According_to_students.exe
+D:\C# Training\10. Grade According to students\10. Grade According to students\obj\Debug\_10.Grade_According_to_students.pdb

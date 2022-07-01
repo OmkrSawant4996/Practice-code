@@ -1,0 +1,8 @@
+D:\C# Training\Temprature of Weather\Temprature of Weather\bin\Debug\Temprature of Weather.exe.config
+D:\C# Training\Temprature of Weather\Temprature of Weather\bin\Debug\Temprature of Weather.exe
+D:\C# Training\Temprature of Weather\Temprature of Weather\bin\Debug\Temprature of Weather.pdb
+D:\C# Training\Temprature of Weather\Temprature of Weather\obj\Debug\Temprature of Weather.csproj.AssemblyReference.cache
+D:\C# Training\Temprature of Weather\Temprature of Weather\obj\Debug\Temprature of Weather.csproj.SuggestedBindingRedirects.cache
+D:\C# Training\Temprature of Weather\Temprature of Weather\obj\Debug\Temprature of Weather.csproj.CoreCompileInputs.cache
+D:\C# Training\Temprature of Weather\Temprature of Weather\obj\Debug\Temprature of Weather.exe
+D:\C# Training\Temprature of Weather\Temprature of Weather\obj\Debug\Temprature of Weather.pdb

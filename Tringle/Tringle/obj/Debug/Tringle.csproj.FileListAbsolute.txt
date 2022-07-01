@@ -1,0 +1,8 @@
+D:\C# Training\Tringle\Tringle\bin\Debug\Tringle.exe.config
+D:\C# Training\Tringle\Tringle\bin\Debug\Tringle.exe
+D:\C# Training\Tringle\Tringle\bin\Debug\Tringle.pdb
+D:\C# Training\Tringle\Tringle\obj\Debug\Tringle.csproj.AssemblyReference.cache
+D:\C# Training\Tringle\Tringle\obj\Debug\Tringle.csproj.SuggestedBindingRedirects.cache
+D:\C# Training\Tringle\Tringle\obj\Debug\Tringle.csproj.CoreCompileInputs.cache
+D:\C# Training\Tringle\Tringle\obj\Debug\Tringle.exe
+D:\C# Training\Tringle\Tringle\obj\Debug\Tringle.pdb

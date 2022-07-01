@@ -1,0 +1,8 @@
+D:\C# Training\Admission Elgibility Criteria\Admission Elgibility Criteria\bin\Debug\Admission Elgibility Criteria.exe.config
+D:\C# Training\Admission Elgibility Criteria\Admission Elgibility Criteria\bin\Debug\Admission Elgibility Criteria.exe
+D:\C# Training\Admission Elgibility Criteria\Admission Elgibility Criteria\bin\Debug\Admission Elgibility Criteria.pdb
+D:\C# Training\Admission Elgibility Criteria\Admission Elgibility Criteria\obj\Debug\Admission Elgibility Criteria.csproj.AssemblyReference.cache
+D:\C# Training\Admission Elgibility Criteria\Admission Elgibility Criteria\obj\Debug\Admission Elgibility Criteria.csproj.SuggestedBindingRedirects.cache
+D:\C# Training\Admission Elgibility Criteria\Admission Elgibility Criteria\obj\Debug\Admission Elgibility Criteria.csproj.CoreCompileInputs.cache
+D:\C# Training\Admission Elgibility Criteria\Admission Elgibility Criteria\obj\Debug\Admission Elgibility Criteria.exe
+D:\C# Training\Admission Elgibility Criteria\Admission Elgibility Criteria\obj\Debug\Admission Elgibility Criteria.pdb
